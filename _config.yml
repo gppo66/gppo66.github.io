@@ -3,62 +3,60 @@
 
 title: Jellog
 description: >- # this means to ignore newlines until "baseurl:"
-    This is JellyBear's Life Blog
+  This is JellyBear's Life Blog
 baseurl: "" # the subpath of the site
 url: "https://gppo66.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics:
 
 header:
-    pages:
-        - name: Home
-          slug: /
-        - name: Work
-        - name: Blog
+  pages:
+    - name: Home
+      slug: /
+    - name: Work
+    - name: Blog
 
 footer:
-    show_powered_by: true
-    contact:
-        - name: Email
-          value: yourmail@domain.com
-          link: mailto:yourmail@domain.com
-        - name: WeChat
-          value: YourWeChatUsername
-          link: "#"
-    follow:
-        - name: Twitter
-          link: http://twitter.com/YourTwitterUsername
-          username: "@YourTwitterUsername"
-        - name: Facebook
-          link: http://facebook.com/YourFacebookUsername
-        - name: LinkedIn
-          link: http://linkedin.com/in/YourLinkedInUsername
-        - name: GitHub
-          link: http://github.com/YourGitHubUsername
-        - name: Dribbble
-          link: https://dribbble.com/YourDribbbleUsername
-        - name: RSS
-          link: /feed.xml
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: gppo66@naver.com
+      link: mailto:gppo66@naver.com
+
+  follow:
+    - name: Twitter
+      link: http://twitter.com/YourTwitterUsername
+      username: "@YourTwitterUsername"
+    - name: Facebook
+      link: http://facebook.com/YourFacebookUsername
+    - name: LinkedIn
+      link: http://linkedin.com/in/YourLinkedInUsername
+    - name: GitHub
+      link: http://github.com/YourGitHubUsername
+    - name: Dribbble
+      link: https://dribbble.com/YourDribbbleUsername
+    - name: RSS
+      link: /feed.xml
 
 # Build settings
 markdown: kramdown
 sass:
-    style: :compressed
+  style: :compressed
 plugins:
-    - jekyll-feed
+  - jekyll-feed
 
 # Excluded items
 exclude:
-    - .sass-cache/
-    - .jekyll-cache/
-    - feed.xml
-    - gemfiles/
-    - Gemfile
-    - Gemfile.lock
-    - vendor/bundle/
-    - vendor/cache/
-    - vendor/gems/
-    - vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Used for defeating caching
 version: 1
