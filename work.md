@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Work
+title: 젤리곰은 이렇게 살아왔어요
 slug: /work
 items:
   - title: My Interest 1

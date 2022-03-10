@@ -7,8 +7,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of the site
 url: "https://gppo66.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
-google_analytics:
-
+# Analytics
+analytics:
+  provider:
+    "google-gtag"
+    # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id: "G-ESL2TPBWLN"
+    anonymize_ip: # true, false (default)
 header:
   pages:
     - name: Home
@@ -29,8 +35,12 @@ footer:
   follow:
     - name: Facebook
       link: https://www.facebook.com/parkgyeonghun
+    - name: Instagram
+      link: https://www.instagram.com/jellybear_pgh/
     - name: Roketpunch
       link: https://www.rocketpunch.com/@gppo66
+    - name: Programmers
+      link: https://programmers.co.kr/pr/gppo66_9803
     - name: GitHub
       link: http://github.com/gppo66
     - name: RSS
@@ -57,4 +67,4 @@ exclude:
   - vendor/ruby/
 
 # Used for defeating caching
-version: 1
+version: 1.1
