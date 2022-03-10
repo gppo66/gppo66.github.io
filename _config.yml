@@ -7,14 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of the site
 url: "https://gppo66.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
-# Analytics
-analytics:
-  provider:
-    "google-gtag"
-    # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id: "G-ESL2TPBWLN"
-    anonymize_ip: # true, false (default)
+google_analytics: "G-ESL2TPBWLN"
 header:
   pages:
     - name: Home
