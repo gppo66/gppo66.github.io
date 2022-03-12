@@ -1,6 +1,6 @@
 ---
 layout: life
-title: <b>젤리곰은 이렇게 살아왔어요</b>
+title: 젤리곰은 이렇게 살아왔어요
 slug: /life
 items:
   - title: 2019~2021 ODCNC
