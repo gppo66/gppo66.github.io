@@ -1,8 +1,13 @@
 ---
 layout: life
-title: 젤리곰은 이렇게 살아왔어요
+title: <b>젤리곰은 이렇게 살아왔어요</b>
 slug: /life
 items:
+  - title: 2019~2021 ODCNC
+    image:
+      src: /assets/img/work/odcnc.png
+      alt: odcnc
+    description: 군에서 만난 소중한 파트너와 함께 쇼핑몰을 창업했어요. 일본에 가서 시장도 조사해보고, 데이터 수집 파이프라인도 구축하면서 많은 노력을 해 꾸준히 성장해왔습니다. 학업과 실무 프로젝트를 겸하면서 일하기에는 조금 벅찼지만, 스스로 회사를 직접 운영하는 좋은 경험이 되었어요. 사업 중에 만난 소중한 인연으로 실무 프로젝트를 맡아 기업의  개발자로 입사하게 됩니다.
   - title: 2018~2020 사이버작전사령부
     image:
       src: /assets/img/work/coc.png
