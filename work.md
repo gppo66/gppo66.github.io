@@ -1,13 +1,12 @@
 ---
 layout: work
-title: JellyFolio
+title: 이런 프로젝트를 참여했어요
 slug: /work
 items:
 ---
 
-열심히 업로드와 수정 중이에요!
 <br />
-
+열심히 업로드와 수정 중이에요!
 <br />
 <br />
 

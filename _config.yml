@@ -20,8 +20,14 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: gppo66@naver.com
+      value: gppo66@naver.com (personal)
       link: mailto:gppo66@naver.com
+    - name: Email
+      value: gppo66@nshc.net (NSHC)
+      link: mailto:gppo66@nshc.net
+    - name: Email
+      value: gppo66@1do.space (OD)
+      link: mailto:gppo66@1do.space
     - name: Kakaotalk
       value: KakaoTalk
       link: https://open.kakao.com/o/siRHhK4d
