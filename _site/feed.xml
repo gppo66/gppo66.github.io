@@ -1,10 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-19T01:19:06+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jellog</title><subtitle>This is JellyBear's Life Blog</subtitle><entry><title type="html">Post testing</title><link href="http://localhost:4000/2022/03/19/blog-posting-test.html" rel="alternate" type="text/html" title="Post testing" /><published>2022-03-19T00:59:00+09:00</published><updated>2022-03-19T00:59:00+09:00</updated><id>http://localhost:4000/2022/03/19/blog-posting-test</id><content type="html" xml:base="http://localhost:4000/2022/03/19/blog-posting-test.html"><![CDATA[<p><img src="http://localhost:4000/assets/img/content/post-example/Banner.jpg" alt="bay" class="post-pic" />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-20T00:54:00+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jellog</title><subtitle>This is JellyBear's Life Blog</subtitle><entry><title type="html">첫 포스팅</title><link href="http://localhost:4000/2022/03/19/blog-posting-test.html" rel="alternate" type="text/html" title="첫 포스팅" /><published>2022-03-19T00:59:00+09:00</published><updated>2022-03-19T00:59:00+09:00</updated><id>http://localhost:4000/2022/03/19/blog-posting-test</id><content type="html" xml:base="http://localhost:4000/2022/03/19/blog-posting-test.html"><![CDATA[<p><img src="http://localhost:4000/assets/img/content/20220319/banner.png" alt="bannerimg" class="post-pic" />
 <br />
 <br /></p>
 
-<p>블로그 포스팅이 잘 되는지 확인하고 있어요.
-마크다운 언어 적용이 잘 되는지 확인하고,
-잘 되는지 확인이 되면 하나하나 포스팅을 할 예정이에요.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Post example</title><link href="http://localhost:4000/2019/10/26/example-of-blog-post.html" rel="alternate" type="text/html" title="Post example" /><published>2019-10-26T19:00:40+09:00</published><updated>2019-10-26T19:00:40+09:00</updated><id>http://localhost:4000/2019/10/26/example-of-blog-post</id><content type="html" xml:base="http://localhost:4000/2019/10/26/example-of-blog-post.html"><![CDATA[<p><img src="http://localhost:4000/assets/img/content/post-example/Banner.jpg" alt="bay" class="post-pic" />
+<p>블로그를 포스팅하는 목적에 대해서 생각을 해봤다.</p>
+
+<p>나는 네이버 블로그, 티스토리, 브런치 등을 사용하지 않고 왜 굳이 깃헙 블로그를 테마를 만들어 직접 커스터마이징을 하고
+블로그 포스팅을 하나하나 하려고 하는 걸까?</p>
+
+<p>어렸을 적부터 나는 레고를 조립하거나 무언가를 조립하는데 많은 흥미를 느꼈다.
+각각의 작은 의미를 가진 객체들이 서로 모이고, 그 객체들이 모여 작은 모듈이 되고, 작은 모듈들이 모여 하나의 작품이 되는
+그 방식 자체를 좋아했다.</p>
+
+<p>프로그래밍도 마찬가지 아닐까,
+작은 코드들을 모으고, 붙여서 조립해 사람들이 살아가는데에 일말의 편리함이라도 제공을 하고,
+그 과정과 결과에 따라 성취감과 뿌듯함을 느끼는 데에 내가 개발자가 된 이유가 아닐까 싶다.</p>
+
+<p>오랜 시간을 살아오지 못했지만, 적어도 개발자로 살아가는데 있어서 나는 내가 걸어온 길, 걸어갈 길에 대해
+기록하고 싶었던 건 아닐까,
+그리고 내가 만든 블로그 자체가 개발자로 걸어온 길을 보여주는 가장 가시적인 기록이 되지 않을까 하는 생각에
+기존 블로그 서비스를 이용하는 것이 아닌 테마를 고르고, 코드를 수정하고, 빌드와 배포까지 하는 번거로운 길을 걷도록 하는 원동력이 되지 않을까 한다.</p>
+
+<p>포스팅 목적에는 큰 의미를 두고 싶지 않다.
+훗날 쌓이고 쌓인 글을 정리하기 위해 카테고리 정도는 매길 수 있지만, 지금은 하나씩 기록하며, 대한민국에 사는 수많은 개발자중 한 명일 뿐인,
+젤리곰이라는 사람이 어떠한 사람인지 기록하고 정리하고 싶다.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Post example</title><link href="http://localhost:4000/2019/10/26/example-of-blog-post.html" rel="alternate" type="text/html" title="Post example" /><published>2019-10-26T19:00:40+09:00</published><updated>2019-10-26T19:00:40+09:00</updated><id>http://localhost:4000/2019/10/26/example-of-blog-post</id><content type="html" xml:base="http://localhost:4000/2019/10/26/example-of-blog-post.html"><![CDATA[<p><img src="http://localhost:4000/assets/img/content/post-example/Banner.jpg" alt="bay" class="post-pic" />
 <br />
 <br /></p>
 
