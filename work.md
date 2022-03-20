@@ -3,10 +3,15 @@ layout: work
 title: 이런 프로젝트를 참여했어요
 slug: /work
 items:
+  - title: 2021-11 ~ 진행중 OSINT 기술 자문 (내용 비공개)
+    image:
+      src: /assets/img/work/nshc.png
+      alt: nshc
+    description: <br />OSINT 컨설팅 기술 자문 및 리서치 기여 <br /> (상세 내용 비공개)
   - title: 2021-11 ~ 진행중<a href="https://www.deficookie.com/"/> DeFiCookie</a>
     image:
       src: /assets/img/work/CookieBear.png
-      alt: CookieBear.png
+      alt: CookieBear
     description: <br />FE 설계 및 개발, PM <br /> ReactJs, NodeJs, MongoDB, AWS, Web3
   - title: 2021-04 ~ 2020-06 <a href="https://www.cointantei.com/"/> CoinTantei</a>
     image:
