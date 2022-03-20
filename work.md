@@ -3,6 +3,21 @@ layout: work
 title: 이런 프로젝트를 참여했어요
 slug: /work
 items:
+  - title: 2021-11 ~ 진행중<a href="https://www.deficookie.com/"/> DeFiCookie</a>
+    image:
+      src: /assets/img/work/CookieBear.png
+      alt: CookieBear.png
+    description: <br />FE 설계 및 개발, PM <br /> ReactJs, NodeJs, MongoDB, AWS, Web3
+  - title: 2021-04 ~ 2020-06 <a href="https://www.cointantei.com/"/> CoinTantei</a>
+    image:
+      src: /assets/img/work/cointantei.png
+      alt: cointantei
+    description: <br />UI 설계, 디자인, 개발, 배포 및 운영, 유지보수<br /> LightSail, ReactJs, NodeJs
+  - title: 2020-08 ~ 2020-12 ODCNC
+    image:
+      src: /assets/img/work/odcnc.png
+      alt: odcnc
+    description: <br />데이터 파이프라인 유지보수 및 고도화, erp 세팅 <br /> python3
   - title: 2019-08 ~ 2019-11 내부 프로젝트 (내용 비공개)
     image:
       src: /assets/img/work/coc.png

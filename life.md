@@ -3,7 +3,7 @@ layout: life
 title: 젤리곰은 이렇게 살아왔어요
 slug: /life
 items:
-  - title: 2021~ NSHC 세이프스퀘어
+  - title: 2021~ 재직중 NSHC 세이프스퀘어
     image:
       src: /assets/img/life/nshc.png
       alt: nshc
