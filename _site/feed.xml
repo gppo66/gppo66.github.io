@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-20T22:28:07+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jellog</title><subtitle>This is JellyBear's Life Blog</subtitle><entry><title type="html">첫 포스팅</title><link href="http://localhost:4000/2022/03/19/blog-posting-test.html" rel="alternate" type="text/html" title="첫 포스팅" /><published>2022-03-19T00:59:00+09:00</published><updated>2022-03-19T00:59:00+09:00</updated><id>http://localhost:4000/2022/03/19/blog-posting-test</id><content type="html" xml:base="http://localhost:4000/2022/03/19/blog-posting-test.html"><![CDATA[<p><img src="http://localhost:4000/assets/img/content/20220319/banner.png" alt="bannerimg" class="post-pic" />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-20T23:58:31+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jellog</title><subtitle>This is JellyBear's Life Blog</subtitle><entry><title type="html">Notice</title><link href="http://localhost:4000/2022/03/20/Notice.html" rel="alternate" type="text/html" title="Notice" /><published>2022-03-20T10:00:40+09:00</published><updated>2022-03-20T10:00:40+09:00</updated><id>http://localhost:4000/2022/03/20/Notice</id><content type="html" xml:base="http://localhost:4000/2022/03/20/Notice.html"><![CDATA[<p><img src="http://localhost:4000/assets/img/content/notice/Banner.png" alt="Notice" class="post-pic" />
+<br />
+<br /></p>
+
+<p>블로그를 수정하고 업로드하는데 있어서 기록하는 페이지에요 <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
+
+<p><br /></p>
+
+<h4 id="notice">NOTICE</h4>
+
+<ol>
+  <li><a href="#2022-03-20">2022-03-20</a></li>
+  <li><a href="#part-2">Part 2</a>
+    <ul>
+      <li><a href="#part-2-sub-part-1">Part 2 Sub-part 1</a></li>
+      <li><a href="#part-2-sub-part-2">Part 2 Sub-part 2</a></li>
+    </ul>
+  </li>
+  <li><a href="#footnotes">Footnotes</a></li>
+</ol>
+
+<h4 id="2022-03-20">2022-03-20</h4>
+
+<p>Life 탭과 Work 탭의 업데이트를 마무리 했어요. 이제는 블로그 포스팅과 기타 기능에 집중해서 업로드 할 예정이에요.
+기존에 주로 사용하는 코드가 아니라서 업로드 속도와 코드 수정 속도가 많이 느리지만,
+그래도 차근차근 확실히 완성도 있게 진행하고 있어요.
+그래픽 작업도 직접 커스터마이징 해서 많이 속도가 느려지지만, 그래도 확실하게 하려고 노력중이에요.
+아래에 있는 의미없는 Lorem ipsum은 업데이트에 맞춰서 천천히 바꿔갈 예정이에요.</p>
+
+<p><br />
+<br /></p>
+
+<h4 id="part-2">PART 2</h4>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+<p><br /></p>
+
+<h5 id="part-2-sub-part-1">PART 2 SUB PART 1</h5>
+
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<p><br /></p>
+
+<h5 id="part-2-sub-part-2">PART 2 SUB PART 2</h5>
+
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Test
+<br /></p>
+
+<h5 id="footnotes">FOOTNOTES</h5>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>나중에 쓰이려고 남겨둔 조각이에요! ㅎㅎ <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">첫 포스팅</title><link href="http://localhost:4000/2022/03/19/First-Post.html" rel="alternate" type="text/html" title="첫 포스팅" /><published>2022-03-19T00:59:00+09:00</published><updated>2022-03-19T00:59:00+09:00</updated><id>http://localhost:4000/2022/03/19/First-Post</id><content type="html" xml:base="http://localhost:4000/2022/03/19/First-Post.html"><![CDATA[<p><img src="http://localhost:4000/assets/img/content/20220319/banner.png" alt="bannerimg" class="post-pic" />
 <br />
 <br /></p>
 
@@ -22,59 +80,4 @@
 
 <p>포스팅 목적에는 큰 의미를 두고 싶지 않다.
 훗날 쌓이고 쌓인 글을 정리하기 위해 카테고리 정도는 매길 수 있지만, 지금은 하나씩 기록하며, 대한민국에 사는 수많은 개발자중 한 명일 뿐인,
-젤리곰이라는 사람이 어떠한 사람인지 기록하고 정리하고 싶다.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Post example</title><link href="http://localhost:4000/2019/10/26/example-of-blog-post.html" rel="alternate" type="text/html" title="Post example" /><published>2019-10-26T19:00:40+09:00</published><updated>2019-10-26T19:00:40+09:00</updated><id>http://localhost:4000/2019/10/26/example-of-blog-post</id><content type="html" xml:base="http://localhost:4000/2019/10/26/example-of-blog-post.html"><![CDATA[<p><img src="http://localhost:4000/assets/img/content/post-example/Banner.jpg" alt="bay" class="post-pic" />
-<br />
-<br /></p>
-
-<p>This is an example of blog post.
-Picture by <a href="https://unsplash.com/@bkotynski">Bethany Legg</a>.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
-
-<p><br /></p>
-
-<h4 id="table-of-contents">Table of Contents</h4>
-<ol>
-  <li><a href="#part-1">Part 1</a></li>
-  <li><a href="#part-2">Part 2</a>
-    <ul>
-      <li><a href="#part-2-sub-part-1">Part 2 Sub-part 1</a></li>
-      <li><a href="#part-2-sub-part-2">Part 2 Sub-part 2</a></li>
-    </ul>
-  </li>
-  <li><a href="#footnotes">Footnotes</a></li>
-</ol>
-
-<h4 id="part-1">PART 1</h4>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<br /></p>
-
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p><br />
-<br /></p>
-
-<h4 id="part-2">PART 2</h4>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-
-<p><br /></p>
-
-<h5 id="part-2-sub-part-1">PART 2 SUB PART 1</h5>
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p><br /></p>
-
-<h5 id="part-2-sub-part-2">PART 2 SUB PART 2</h5>
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Test
-<br /></p>
-
-<h5 id="footnotes">FOOTNOTES</h5>
-
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>This is a note! <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
+젤리곰이라는 사람이 어떠한 사람인지 기록하고 정리하고 싶다.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
