@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-25T23:03:16+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jellog</title><subtitle>This is JellyBear's Life Blog</subtitle><entry><title type="html">자가격리일기</title><link href="http://localhost:4000/2022/03/21/Self-isolation-diary.html" rel="alternate" type="text/html" title="자가격리일기" /><published>2022-03-21T10:00:40+09:00</published><updated>2022-03-21T10:00:40+09:00</updated><id>http://localhost:4000/2022/03/21/Self-isolation-diary</id><content type="html" xml:base="http://localhost:4000/2022/03/21/Self-isolation-diary.html"><![CDATA[<p><img src="http://localhost:4000/assets/img/content/self-isol/Banner.png" alt="Banner" class="post-pic" />
+I"%+<p><img src="http://localhost:4000/assets/img/content/self-isol/Banner.png" alt="Banner" class="post-pic" />
 <br />
 <br /></p>
 
@@ -18,9 +18,8 @@
 
 <h4 id="day-1">Day 1</h4>
 
-<p><strong>자가격리 1일차</strong><br /></p>
-
-<p>아침에 가족 중 한분이 확진판정을 받은 이후로, 함께 움직이던 가족은 따로 따로 움직이기 시작했다.
+<p><strong>자가격리 1일차</strong><br />
+아침에 가족 중 한분이 확진판정을 받은 이후로, 함께 움직이던 가족은 따로 따로 움직이기 시작했다.
 <br />회사에 재택근무 연락을 드리고, 오늘 휴가를 취소 후에 일정이 있던 친구들에게 사과 연락을 돌리기 시작했다. 씁쓸한 뒷맛을 가지고, 집에서 업무를 시작했다.</p>
 
 <p>평소에 하던 재택근무랑은 느낌이 다르다. 2평 남짓한 작은 방에서 나가려면, 집 밖을 나가는 것 처럼 <br />마스크를 써야 했고, 다같이 모여 도란도란 식사를 하던 가족은 각자 먹을 것을 덜어
@@ -42,9 +41,8 @@
 
 <h3 id="day-2">Day 2</h3>
 
-<p><strong>자가격리 2일차</strong><br /></p>
-
-<p>자가격리 이후 아침은 마치 주말과 같이 평화로웠다.<br />
+<p><strong>자가격리 2일차</strong><br />
+자가격리 이후 아침은 마치 주말과 같이 평화로웠다.<br />
 다만, 하루의 모든 일정은 내 책상 앞에서 단 한 발자국도 움직이지 않은 상태에서 진행 됐다.<br />
 뇌를 뚫는 듯한 자가검진을 마치고, 오늘 해야 할 일을 확인해야 했다.
 예전 같으면 집에서 지내는 <br />모든 행동들이 자연스럽고, 일말의 답답함 조차 마음 속에 남지 않았다.
@@ -101,9 +99,8 @@
 
 <h3 id="day-4">Day 4</h3>
 
-<p><strong>자가격리 4일차</strong> <br /></p>
-
-<p>공식적으로 아침일정이 있는 첫 날이었다. 아침 10시에 회의를 하고, 오후에 또 회의에 참석했다.<br />
+<p><strong>자가격리 4일차</strong> <br />
+공식적으로 아침일정이 있는 첫 날이었다. 아침 10시에 회의를 하고, 오후에 또 회의에 참석했다.<br />
 역시 집에서 일하는건 집중이 잘 되지 않는다. 자리가 사람의 마음을 정하는가보다.<br /> 물론 언제나 출근했을 때 집중이 잘 되는 것은 아니다.
 하지만 출근한다는 준비를 하고, 가는 길에 하루 <br />일정을 게획하고, 출근을 하는 과정이 집중을 하게 되는 하나의 신성한 루틴이 아니었을까</p>
 
@@ -160,86 +157,5 @@ PCR 검사 결과는 다음날 문자로 알려준다니까 기다리면 될 것
       <p>가족 중 확진자는 두 명이 되었다. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Notice</title><link href="http://localhost:4000/2022/03/20/Notice-copy.html" rel="alternate" type="text/html" title="Notice" /><published>2022-03-20T10:00:40+09:00</published><updated>2022-03-20T10:00:40+09:00</updated><id>http://localhost:4000/2022/03/20/Notice%20copy</id><content type="html" xml:base="http://localhost:4000/2022/03/20/Notice-copy.html"><![CDATA[<p><img src="http://localhost:4000/assets/img/content/notice/Banner.png" alt="Notice" class="post-pic" />
-<br />
-<br /></p>
-
-<p>블로그를 수정하고 업로드하는데 있어서 기록하는 페이지에요 <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
-
-<p><br /></p>
-
-<h4 id="notice">NOTICE</h4>
-
-<ol>
-  <li><a href="#2022-03-20">2022-03-20</a></li>
-  <li><a href="#part-2">Part 2</a>
-    <ul>
-      <li><a href="#part-2-sub-part-1">Part 2 Sub-part 1</a></li>
-      <li><a href="#part-2-sub-part-2">Part 2 Sub-part 2</a></li>
-    </ul>
-  </li>
-  <li><a href="#footnotes">Footnotes</a></li>
-</ol>
-
-<h4 id="2022-03-20">2022-03-20</h4>
-
-<p>Life 탭과 Work 탭의 업데이트를 마무리 했어요. 이제는 블로그 포스팅과 기타 기능에 집중해서 업로드 할 예정이에요.
-기존에 주로 사용하는 코드가 아니라서 업로드 속도와 코드 수정 속도가 많이 느리지만,
-그래도 차근차근 확실히 완성도 있게 진행하고 있어요.
-그래픽 작업도 직접 커스터마이징 해서 많이 속도가 느려지지만, 그래도 확실하게 하려고 노력중이에요.
-아래에 있는 의미없는 Lorem ipsum은 업데이트에 맞춰서 천천히 바꿔갈 예정이에요.</p>
-
-<p><br />
-<br /></p>
-
-<h4 id="part-2">PART 2</h4>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-
-<p><br /></p>
-
-<h5 id="part-2-sub-part-1">PART 2 SUB PART 1</h5>
-
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p><br /></p>
-
-<h5 id="part-2-sub-part-2">PART 2 SUB PART 2</h5>
-
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Test
-<br /></p>
-
-<h5 id="footnotes">FOOTNOTES</h5>
-
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>나중에 쓰이려고 남겨둔 조각이에요! ㅎㅎ <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">첫 포스팅</title><link href="http://localhost:4000/2022/03/19/First-Post.html" rel="alternate" type="text/html" title="첫 포스팅" /><published>2022-03-19T00:59:00+09:00</published><updated>2022-03-19T00:59:00+09:00</updated><id>http://localhost:4000/2022/03/19/First-Post</id><content type="html" xml:base="http://localhost:4000/2022/03/19/First-Post.html"><![CDATA[<p><img src="http://localhost:4000/assets/img/content/20220319/banner.png" alt="bannerimg" class="post-pic" />
-<br />
-<br /></p>
-
-<p>블로그를 포스팅하는 목적에 대해서 생각을 해봤다.</p>
-
-<p>나는 네이버 블로그, 티스토리, 브런치 등을 사용하지 않고 왜 굳이 깃헙 블로그를 테마를 만들어 직접 커스터마이징을 하고
-블로그 포스팅을 하나하나 하려고 하는 걸까?</p>
-
-<p>어렸을 적부터 나는 레고를 조립하거나 무언가를 조립하는데 많은 흥미를 느꼈다.
-각각의 작은 의미를 가진 객체들이 서로 모이고, 그 객체들이 모여 작은 모듈이 되고, 작은 모듈들이 모여 하나의 작품이 되는
-그 방식 자체를 좋아했다.</p>
-
-<p>프로그래밍도 마찬가지 아닐까,
-작은 코드들을 모으고, 붙여서 조립해 사람들이 살아가는데에 일말의 편리함이라도 제공을 하고,
-그 과정과 결과에 따라 성취감과 뿌듯함을 느끼는 데에 내가 개발자가 된 이유가 아닐까 싶다.</p>
-
-<p>오랜 시간을 살아오지 못했지만, 적어도 개발자로 살아가는데 있어서 나는 내가 걸어온 길, 걸어갈 길에 대해
-기록하고 싶었던 건 아닐까,
-그리고 내가 만든 블로그 자체가 개발자로 걸어온 길을 보여주는 가장 가시적인 기록이 되지 않을까 하는 생각에
-기존 블로그 서비스를 이용하는 것이 아닌 테마를 고르고, 코드를 수정하고, 빌드와 배포까지 하는 번거로운 길을 걷도록 하는 원동력이 되지 않을까 한다.</p>
-
-<p>포스팅 목적에는 큰 의미를 두고 싶지 않다.
-훗날 쌓이고 쌓인 글을 정리하기 위해 카테고리 정도는 매길 수 있지만, 지금은 하나씩 기록하며, 대한민국에 사는 수많은 개발자중 한 명일 뿐인,
-젤리곰이라는 사람이 어떠한 사람인지 기록하고 정리하고 싶다.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
+</div>
+:ET
