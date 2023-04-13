@@ -1,280 +1,596 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-02T18:48:54+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jellog</title><subtitle>This is JellyBear's Life Blog</subtitle><entry><title type="html">자가격리일기</title><link href="http://localhost:4000/2022/03/21/Self-isolation-diary.html" rel="alternate" type="text/html" title="자가격리일기" /><published>2022-03-21T10:00:40+09:00</published><updated>2022-03-21T10:00:40+09:00</updated><id>http://localhost:4000/2022/03/21/Self-isolation-diary</id><content type="html" xml:base="http://localhost:4000/2022/03/21/Self-isolation-diary.html"><![CDATA[<p><img src="http://localhost:4000/assets/img/content/self-isol/Banner.png" alt="Banner" class="post-pic" />
-<br />
-<br /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-13T13:29:04+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Starter Kit</title><subtitle>Hydejack is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress.
+</subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">Introducing Hydejack 9</title><link href="http://localhost:4000/example/2020-07-03-introducing-hydejack-9/" rel="alternate" type="text/html" title="Introducing Hydejack 9" /><published>2020-07-03T00:00:00+09:00</published><updated>2022-02-07T13:43:00+09:00</updated><id>http://localhost:4000/example/introducing-hydejack-9</id><content type="html" xml:base="http://localhost:4000/example/2020-07-03-introducing-hydejack-9/"><![CDATA[<p class="lead">Version 9 is the most complete version of Hydejack yet.</p>
 
-<p>코로나-19 밀접접촉자가 되어버렸다. <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
+<p><a href="#linking-in-style">Modernized</a> <a href="#whats-in-the-cards">design</a>, <a href="#ready-for-the-big-screen">big headlines</a>, big new features: <a href="#built-in-search">Built-In Search</a>, <a href="#sticky-table-of-contents">Sticky Table of Contents</a>, and <a href="#auto-hiding-navbar">Auto-Hiding Navbar</a>. That <a href="#and-much-more">and more</a> is Hydejack 9.</p>
 
-<p><br /></p>
+<ul class="large-only" id="markdown-toc">
+  <li><a href="#linking-in-style" id="markdown-toc-linking-in-style">Linking in Style</a></li>
+  <li><a href="#ready-for-the-big-screen" id="markdown-toc-ready-for-the-big-screen">Ready for the Big Screen</a></li>
+  <li><a href="#whats-in-the-cards" id="markdown-toc-whats-in-the-cards">What’s in the Cards?</a></li>
+  <li><a href="#built-in-search" id="markdown-toc-built-in-search">Built-In Search</a></li>
+  <li><a href="#auto-hiding-navbar" id="markdown-toc-auto-hiding-navbar">Auto-Hiding Navbar</a></li>
+  <li><a href="#sticky-table-of-contents" id="markdown-toc-sticky-table-of-contents">Sticky Table of Contents</a></li>
+  <li><a href="#and-much-more" id="markdown-toc-and-much-more">…and much more</a></li>
+  <li><a href="#even-more-to-come" id="markdown-toc-even-more-to-come">Even More to Come</a></li>
+  <li><a href="#get-it-now" id="markdown-toc-get-it-now">Get It Now</a></li>
+</ul>
 
-<h4 id="자가격리일기">자가격리일기</h4>
+<h2 id="linking-in-style">Linking in Style</h2>
 
-<ol>
-  <li><a href="#day-1">Day-1</a></li>
-  <li><a href="#day-2">Day-2</a></li>
-  <li><a href="#day-3">Day-3</a></li>
-  <li><a href="#day-4">Day-4</a></li>
-  <li><a href="#day-5">Day-5</a></li>
-  <li><a href="#day-6">Day-6</a></li>
-  <li><a href="#day-7">Day-7</a></li>
-</ol>
+<p>Ever since the introduction of Dark Mode, link styles have been a bit of an issue. Specifically, finding an accent color that worked on both light and dark backgrounds was the problem. With Hydejack 9, the <a href="#linking-in-style">link style</a> has been revamped so that legibility is no longer tied to the choice of accent_color, giving you much more freedom in creating a unique design flavor for your site.</p>
 
-<h4 id="day-1">Day 1</h4>
+<h2 id="ready-for-the-big-screen">Ready for the Big Screen</h2>
 
-<p><strong>자가격리 1일차</strong><br /></p>
+<p>The theme on which Hydejack is based was designed for a different era of the web. Hydejack has inherited many of its limitations, but over time I’ve made adjustments, such as centering the content column for better reading ergonomics.</p>
 
-<p>아침에 가족 중 한분이 확진판정을 받은 이후로, 함께 움직이던 가족은 따로 따로 움직이기 시작했다.
-<br />회사에 재택근무 연락을 드리고, 오늘 휴가를 취소 후에 일정이 있던 친구들에게 사과 연락을 돌리기 시작했다. 씁쓸한 뒷맛을 가지고, 집에서 업무를 시작했다.</p>
+<p>With version 9, Hydejack takes full advantage of large displays. Whether it’s design indulgences such as oversized headlines, or quality of life improvements such as a floating table of contents, Hydejack now finds use for all that extra screen real estate<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
 
-<p>평소에 하던 재택근무랑은 느낌이 다르다. 2평 남짓한 작은 방에서 나가려면, 집 밖을 나가는 것 처럼 <br />마스크를 써야 했고, 다같이 모여 도란도란 식사를 하던 가족은 각자 먹을 것을 덜어
-서로 먹을 시간에 <br />맞춰 따로 먹기 시작했다. 대부분의 연락은 메신저로만 연락했고, 조그마한 몸의 이상 반응에도 민감하게 반응했다.</p>
+<h2 id="whats-in-the-cards">What’s in the Cards?</h2>
 
-<p>눈에 보이지도 않는 조그만 바이러스 덩어리가, 우리 가족을 따로 움직이게 만들었다.
-<br />누구의 잘못도 아니었다.
-<br />감염자도, 그의 가족도 어떠한 잘못이 없다. 그런데 주변 사람들에게 걱정을 끼치고, 경각심을 갖게 하는데 사과를 했다.
-주변 사람 누구도 나에게 잘못했다고 하지 않았다.
-하지만 일정이 연기되고 취소 되는데, 어찌 미안하지 않을 수 있을까</p>
+<p>Hydejack 9 now lets you use content cards for both projects and posts. 
+The cards have been redesigned with a new hover style and drop shadows and they retain their unique transition-to-next-page animations, which now also work on the <code class="language-plaintext highlighter-rouge">blog</code> layout. The new <code class="language-plaintext highlighter-rouge">grid</code> layout lets you do that.</p>
 
-<p>검사 결과는 음성이었지만, 주변사람들에게 감염에 대한 안전함을 느끼게 하기 위해 나는 누구보다 늦게까지 격리를 하려고 한다.
-그 일상에 대한 기록은 내 삶을 보여줄 수 있는 블로그에 작성하고 싶다.</p>
+<p>Good images are key to making the most out of content cards. For that reason, a <a href="/docs/basics/#adding-images">chapter on images</a> has been added to the documentation.</p>
 
-<p>훗날 마스크를 벗고, <br />카페에서 지인들과 이때는 이랬지, 흑역사가 어쨌지 하는 추억거리가 되었으면 좋겠다.</p>
+<h2 id="built-in-search">Built-In Search</h2>
 
-<p><br />
-<br /></p>
+<p>Hydejack now has Built-In Search. It even works offline. I’ve been prototyping many approaches and eventually settled on a fully client-side, off-the-main thread solution that perfectly fits the use case of personal sites and shows surprisingly good results<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>.</p>
 
-<h3 id="day-2">Day 2</h3>
+<p>The new search UI is custom made for Hydejack and shows beautiful previews of your posts and pages, right on top of your regular content.</p>
 
-<p><strong>자가격리 2일차</strong><br /></p>
+<p>Together with the Auto-Hiding Navbar, your entire content library is now only a couple of keystrokes away.</p>
 
-<p>자가격리 이후 아침은 마치 주말과 같이 평화로웠다.<br />
-다만, 하루의 모든 일정은 내 책상 앞에서 단 한 발자국도 움직이지 않은 상태에서 진행 됐다.<br />
-뇌를 뚫는 듯한 자가검진을 마치고, 오늘 해야 할 일을 확인해야 했다.
-예전 같으면 집에서 지내는 <br />모든 행동들이 자연스럽고, 일말의 답답함 조차 마음 속에 남지 않았다.
-그런데 자가격리라는 목적 하에 조그마한 방에 앉아 일정을 소화하니, 외로움과 답답함이 밀려오기 시작했다. 이제 2일차인데,<br />
-남은 4일을 어떻게 견딜 수 있을지 모르겠다.</p>
+<h2 id="auto-hiding-navbar">Auto-Hiding Navbar</h2>
 
-<p>귀찮기 그지 없었던 카톡 연락에 집중하고 바로바로 연락하기 시작했고, 답이 조금이라도 늦으면 <br />조급해지고 심심했다.
-사람은 항상 환경에 따라, 상황에 따라 주관적이고 가변적인 마음을 갖게 된다는 것을 또 한번 느끼게 된다.</p>
+<p>A navbar that’s there when you need it, and disappears when you don’t. Simple as that.</p>
 
-<p>카이로스의 시간은 사람에 따라 주관적으로 흘러간다. 적어도 나에게 있어선, 이 6일의 시간이 누구보다 답답하고 느리게 흘러갈 것이다.
-하지만 주관적으로 흘러가는 시간이 있다면, 절대적이고 객관적으로 <br />흘러가는 크로노스의 시간도 존재하지 않겠는가,
-카이로스의 시간을 쪼개고 쪼개고 쪼개 하나의 루틴을 만들어 그 안에 수많은 루틴을 쌓아 견뎌 나가면
-그 시간이 쌓이고 쌓여 6일이라는 절대적인 시간을 <br />지낼 수 있지 않을까 생각한다.</p>
+<h2 id="sticky-table-of-contents">Sticky Table of Contents</h2>
 
-<p>이 과정이 나에게 기나긴 인생을 사는데 큰 자양분이 될 것이라고 믿어 의심치 않는다.</p>
+<p>Already a staple on so many sites on the web, this pattern is now also available in Hydejack. 
+What’s unique about it is that it simply picks up the table of contents already created by kramdown’s <code class="language-plaintext highlighter-rouge">{:toc}</code> tag and transparently upgrades it to a fully dynamic version.</p>
 
-<p><br />
-<br /></p>
+<h2 id="and-much-more">…and much more</h2>
 
-<h3 id="day-3">Day 3</h3>
+<p>Other noteworthy changes include:</p>
+<ul>
+  <li>Support for Jekyll 4</li>
+  <li>Choice between MathJax and KaTeX for math rendering</li>
+  <li>Use of <code class="language-plaintext highlighter-rouge">jekyll-include-cache</code> for drastically improved page building speeds</li>
+  <li>New variables configuration file — adjust content width, sidebar width, font size, etc…</li>
+  <li>…and the option to disable grouping projects by year.</li>
+</ul>
 
-<p><strong>자가격리 3일차</strong><br /><br />
-<img src="http://localhost:4000/assets/img/content/self-isol/Day3Banner.png" alt="Banner" class="post-pic" />
-<br /><br /></p>
+<p>Read the the <a href="/CHANGELOG/" class="heading flip-title">CHANGELOG</a> for the full scope of features and improvements made in Hydejack 9.
+Maybe just glance at it to confirm that it is indeed a pretty long list.</p>
 
-<p>격리로 시작하는 아침 3일차가 시작되었다. 오늘은 다른 날과는 다르게 시작이 좋았다.<br />
-일년에 단 한번 뿐인 생일이었고, 아침에 무수히 울리는 진동에 눈을 떠보니 많은 사람들의 축하를 받고 있었다.</p>
+<h2 id="even-more-to-come">Even More to Come</h2>
 
-<p>아쉽게도 원하는 사람의 축하는 받지 못했지만, 그래도 이토록 많은 사람들이 나의 생일에 축하해 주고 <br />있으니 얼마나 기쁜가
-지인들의 축하 이외에도 작디 작은 바이러스의 축하도 받고 말았다. 그런데 축하의 대상은 내가 아니었다.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup></p>
+<p>New features for 9.1 are already lined up. Code block headers and code line highlights for even better technical blogging, as well as download buttons on the resume page for PDF, vCard, and Resume JSON are just around the corner.</p>
 
-<p>가족 중 한 분이 또 확진 되고 말았다. 문제는 음성이라고 멋대로 판단하고 강력한 포옹을 했기 때문에,<br />
-나는 초 밀접 접촉자가 되어버렸다. 그와 동시에 나는 확진자의 식사를 옮겨다 주는 역할도 맡게 되었다.
-생전 처음 느껴보는 생일날의 축제에 나는 그만 정신을 잃고 쓰러지고 말았다.</p>
+<h2 id="get-it-now">Get It Now</h2>
+<p>The Free Version of Hydejack is now availabe on <a href="https://rubygems.org/gems/jekyll-theme-hydejack">RubyGems</a>
+and for the first time also on <a href="https://github.com/hydecorp/hydejack/packages">GitHub Packages</a>. 
+The source code is available on <a href="https://github.com/hydecorp/hydejack">GitHub</a> as always.</p>
 
-<p>회사에 보고를 한 후 생일 기념으로 오늘 하루 업무를 쉬도록 배려를 받았다.</p>
+<p>The PRO Version is scheduled to release on July 7th on Gumroad. Pre-Orders are open now:</p>
 
-<p>5월 중에 세대 분리를 위해 자취를 계획 중에 있었기 때문에, 지내고 싶은 집과 내가 월급 내에서 생활 <br />할 수 있도록
-가계부 작성을 시작했다. 가히 충격적이었다. 나는 생각보다 많은 지출을 하고 있었고,
-<br />생각보다 많은 돈을 하늘에 흩뿌리고 있었다.</p>
-
-<p>이제부터 새로운 목표가 생겼다.</p>
-
-<ol>
-  <li>쓸데없는 지출을 줄이기</li>
-  <li>돈 드는 취미를 줄이기 ( 이 목표는 지켜지기 힘들 것 같다. 카메라가 사고 싶어졌기 때문이다. )</li>
-</ol>
-
-<p>이 목표는 내가 더 이상 통장 잔고를 보면서 마음이 아파지기 이전까지 지켜질 예정이다.<br />
-이렇게 3일차가 지나갔다.</p>
-
-<p><br />
-<br /></p>
-
-<h3 id="day-4">Day 4</h3>
-
-<p><strong>자가격리 4일차</strong> <br /></p>
-
-<p>공식적으로 아침일정이 있는 첫 날이었다. 아침 10시에 회의를 하고, 오후에 또 회의에 참석했다.<br />
-역시 집에서 일하는건 집중이 잘 되지 않는다. 자리가 사람의 마음을 정하는가보다.<br /> 물론 언제나 출근했을 때 집중이 잘 되는 것은 아니다.
-하지만 출근한다는 준비를 하고, 가는 길에 하루 <br />일정을 게획하고, 출근을 하는 과정이 집중을 하게 되는 하나의 신성한 루틴이 아니었을까</p>
-
-<p>여느 때와 다름 없이 코를 깊숙히 쑤시고, 음성을 확인한다. <br />이렇게 밀접 접촉인데도 불구하고 음성인 것을 보면,
-나는 슈퍼 가디언인이거나, 과거 코로나-19 무증상 감염자 였지 않았을까 싶다.
-이정도 시간이 지나니, 다음주 일정을 미룬 것이 후회될 지경이다.</p>
-
-<p>최근 카카오톡 등 일상생활에 지루함을 느껴, 대학교 직장인 톡방에 들어갔다. 예전과는 달리 많은 화력이 떨어졌지만,
-그래도 오랜만에 다양한 사람을 접하게 되니, 줄어들었던 대인관계능력이 다시 살아나는 <br />느낌이다.</p>
-
-<p>대충 일정을 끝내고 나니, 시간이 남아 오랜시간 묵혀두었던 방정리를 시작했다.
-2시간 정도 흘렀을까,<br /> 그동안에 쌓인 세월의 흔적을 정리하기에는 턱없이 부족한 시간이었다. 아무래도 여러번의 시도를 거쳐 마무리해야 할 것 같다.
-이 세월의 흔적을 마무리하고 나면, <br />나는 본격적으로 독립을 할 예정이다.
-본격적으로 혼자 살기 시작하면서, 미래에 대한 철저한 준비와<br /> 집으로 부터 경제적으로 육체적으로 완벽한 독립을 계획 중이다.</p>
-
-<p><br />
-<br /></p>
-
-<h3 id="day-5">Day 5</h3>
-
-<p><strong>자가격리 5일차</strong><br /></p>
-
-<p>4일동안 혼자 도맡아 하던 집안일과 업무의 연속으로 결국 몸에 이상이 오고 말았다. <br />단순히 코로나 증상일지도 모르나, 자가검진키트를 두번을 했지만 모두 음성이 나왔다. 다음 주의 있을 <br />경주 당일치기 여행을 위해 큰 결심을 하고 PCR 검사를 하러 나갔다.
-PCR 검사에는 많은 줄이 있고 <br />오랜 대기 시간이 있을거라 예상했지만, 예상과는 다르게 사람이 없었다.
-나는 동거자 권고사항으로 PCR 검사를 하러 간 것이기에 문진표만 작성하고, 바로 검사를 하러 갔다.
-PCR 검사는 기존의 검사와는 <br />사뭇 다른 느낌이었다. 자가검진키트와 신속항원검사같은 경우 재채기가 나오는 간지러운 느낌이었다면,
-PCR 검사는 콧속에 스트레이트 잽을 갈기고 나온 느낌이다.
-초기 코로나 검사 당시 피가 나온다는게 어떤 의미인지 좀 알 것 같다.
-PCR 검사 결과는 다음날 문자로 알려준다니까 기다리면 될 것 같다. 제발 음성이 나왔으면 좋겠다.
-일정을 미루면서 더 이상 사람들에게 피해를 주기도 싫고, 업무에 지장이 가는 것도 <br />너무 싫다.</p>
-
-<p>몸살기운이 있어 잠시 자려고 했지만, 가족의 식사를 정리해 드려야 하고, <br />밀린 집안일과 업무를 처리해야 한다.
-대표님은 쉬라고 하셨지만, 일정에 맞추려면 어쩔 수 없이 업무를 서둘러야 한다.</p>
-
-<p>최대한 빠르게 일정을 마치고, 잠시 영화를 보다 잠들었다.
-그러나 그것 또한 짧은 시간의 휴식이었고,<br /> 가족의 식사를 준비해야 하기에 지친 몸을 일으키고 움직이기 시작했다.
-<br />사람은 해야 할 일이 있으면, 에너지가 생기나 보다.
-생각보다 몸 상태는 안좋았지만, 움직일 수 있는 힘이 있었다.</p>
-
-<p>여차저차 마무리를 짓고, 오늘은 일찍 자려고 한다. 내일 늦게까지 자고 일어나면 많은 일이 있겠지만,<br />
-내일은 내일의 내가 해결할 문제니까 지금의 나는 굳이 신경쓰지 않으려고 한다.</p>
-
-<p><br />
-<br /></p>
-
-<h3 id="day-6">Day 6</h3>
-
-<p><strong>자가격리 6일차</strong><br /></p>
-
-<p>18시간을 잤다. 일어나 보니 해가 지고 있었다.<br />
-내가 해아할 가족들 병간호는 형이 해주고 있었다. 몸이 안 좋았기 때문에 계속 쉬기로 했다.<br />
-다행히 PCR 검사는 음성이었고, 혹시 모를 자가검진키트 역시 음성이 나왔다.
-그럼 몸이 아픈건 단순히 과로라고 생각해도 될 듯 싶다.
-일을 많이 한 건 아니었지만, 심리적인 요인이 가장 크지 않았을까 싶다.</p>
-
-<p>이번 자가격리를 통해 내가 자취하고 싶은 결정적인 이유가 생겼다.
-바쁜 업무 상황에서 다른 신경 쓸 일이 많아지다 보니, 가족들에게도 최선의 간호를 못하고,
-업무에 있어서도 확실한 집중을 하기 힘들었다.
-가족들 탓을 하는 것은 아니지만, 상황과 환경에 많은 영향을 받는 사람이다 보니,<br />
-스스로 스트레스를 너무 많이 받기 시작했다.</p>
-
-<p>이젠 나와서 살 때가 된 것 같다.</p>
-
-<p>오늘은 하루 대부분의 시간을 잠으로 보냈기 때문에 크게 쓸 이야기가 없다.</p>
-
-<p>내일은 오늘보단 더 나은 날을 살기를 바라며 이만 글을 마친다.</p>
-
-<p><br />
-<br /></p>
-
-<h3 id="day-7">Day 7</h3>
-
-<p><strong>자가격리 7일차</strong><br /></p>
-
-<p>길고 긴 자가격리의 마지막 일차가 시작되었다. 가족 중 확진되었던 분이 자가검진으로 음성이 나왔다.<br />
-이제 슬슬 회복되기 시작하시나 보다.<br />
-정말 길고 힘든 일주일이었다. 업무와 집안일의 연속이었고, 어느 하나 집중할 수 없는 상황의 <br />연속이었다.</p>
-
-<p>물론 가족분들께서는 나를 배려해 배달음식을 시켜드시고, 내가 잠든사이 방역 풀무장을 <br />하고 나온 후 식사를 준비해 들어가셨다.
-가장 다행이었던건 나를 포함한 나머지 가족이 확진되지 않았다.
-미루지 않아도 되었던 일정을 미룬 것이 좀 아깝긴 하지만, 어쩌겠는가
-위험을 감수하는 행위를 좋아하지 않기 때문에 쿨하게 넘어가야 하지 않을까 싶다.</p>
-
-<p>이제 멈췄던 시간이 다시 흐르기 시작한다.
-내일 부터는 졸린 몸을 이끌고 다시 출근을 해야하고, 챗바퀴가 돌듯이 업무를 시작해야한다.</p>
-
-<p><br />나는 돈을 버는 사람이고, 계속 공부하면서 성장해야하는 사람이다.
-상황과 환경 때문에 잠시 멈출 수는 있어도, 아예 멈추는 것은 아직은 안된다.
-계속 벌고, 계속 공부하고, 더 많이 얻고, 덜 잃어야 한다.</p>
-
-<p>그게 내가 해야하는 최소한의 노력이고, 최선의 삶이다.</p>
-
-<p><br />
-<br /></p>
-
-<h5 id="footnotes">FOOTNOTES</h5>
+<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
     <li id="fn:1" role="doc-endnote">
-      <p>아직은 음성이다 <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>If you are a fan of the old two-column layout, or don’t like modern design tropes such as mega headlines, Hydejack lets you revert these changes on a case-by-case basis via configuration options. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
     </li>
     <li id="fn:2" role="doc-endnote">
-      <p>가족 중 확진자는 두 명이 되었다. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+
+      <p>Search was mainly tested for English and German. Please let me know about issues in other languages. 
+  While I’ve tried to find a multi-language solution, most showed drastically worse  results for the English base case.
+  If you’re technically inclined, you can adopt the code located in <code class="language-plaintext highlighter-rouge">_includes/js/search-worker.js</code> to your needs. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Notice</title><link href="http://localhost:4000/notice/2022/03/20/Notice-copy.html" rel="alternate" type="text/html" title="Notice" /><published>2022-03-20T10:00:40+09:00</published><updated>2022-03-20T10:00:40+09:00</updated><id>http://localhost:4000/notice/2022/03/20/Notice%20copy</id><content type="html" xml:base="http://localhost:4000/notice/2022/03/20/Notice-copy.html"><![CDATA[<p><img src="http://localhost:4000/assets/img/content/notice/Banner.png" alt="Notice" class="post-pic" />
-<br />
-<br /></p>
+</div>]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="example" /><summary type="html"><![CDATA[Version 9 is the most complete version of Hydejack yet. Modernized design, big headlines, and big new features.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/jeremy-bishop@0,5x.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/jeremy-bishop@0,5x.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example Content III</title><link href="http://localhost:4000/example/2018-06-01-example-content-iii/" rel="alternate" type="text/html" title="Example Content III" /><published>2018-06-01T00:00:00+09:00</published><updated>2022-02-07T13:43:00+09:00</updated><id>http://localhost:4000/example/example-content-iii</id><content type="html" xml:base="http://localhost:4000/example/2018-06-01-example-content-iii/"><![CDATA[<p>Hydejack offers a few additional features to markup your markdown.
+Don’t worry, these are merely CSS classes added with kramdown’s <code class="language-plaintext highlighter-rouge">{:...}</code> syntax,
+so that your content remains compatible with other Jekyll themes.</p>
 
-<p>블로그를 수정하고 업로드하는데 있어서 기록하는 페이지에요 <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
+<h2 id="large-tables">Large Tables</h2>
 
-<p><br /></p>
+<table class="scroll-table">
+  <thead>
+    <tr>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+      <th>Default aligned</th>
+      <th style="text-align: left">Left aligned</th>
+      <th style="text-align: center">Center aligned</th>
+      <th style="text-align: right">Right aligned</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+      <td>First body part</td>
+      <td style="text-align: left">Second cell</td>
+      <td style="text-align: center">Third cell</td>
+      <td style="text-align: right">fourth cell</td>
+    </tr>
+    <tr>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+      <td>Second line</td>
+      <td style="text-align: left">foo</td>
+      <td style="text-align: center"><strong>strong</strong></td>
+      <td style="text-align: right">baz</td>
+    </tr>
+    <tr>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+      <td>Third line</td>
+      <td style="text-align: left">quux</td>
+      <td style="text-align: center">baz</td>
+      <td style="text-align: right">bar</td>
+    </tr>
+    <tr>
+      <td>Second body</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Second body</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Second body</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Second body</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>2 line</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>2 line</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>2 line</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>2 line</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+    <tr>
+      <td>Footer row</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Footer row</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Footer row</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+      <td>Footer row</td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
 
-<h4 id="notice">NOTICE</h4>
+<h2 id="code-blocks">Code blocks</h2>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Example can be run directly in your JavaScript console</span>
+
+<span class="c1">// Create a function that takes two arguments and returns the sum of those</span>
+<span class="c1">// arguments</span>
+<span class="kd">var</span> <span class="nx">adder</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Function</span><span class="p">(</span><span class="dl">"</span><span class="s2">a</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">b</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">return a + b</span><span class="dl">"</span><span class="p">);</span>
+
+<span class="c1">// Call the function</span>
+<span class="nx">adder</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">6</span><span class="p">);</span>
+<span class="c1">// &gt; 8</span>
+</code></pre></div></div>
+
+<h2 id="math">Math</h2>
+<p>Lorem ipsum \(f(x) = x^2\).</p>
+
+\[\begin{aligned}
+  \phi(x,y) &amp;= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
+            &amp;= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
+            &amp;= (x_1, \ldots, x_n)
+               \left(\begin{array}{ccc}
+                 \phi(e_1, e_1)  &amp; \cdots &amp; \phi(e_1, e_n) \\
+                 \vdots          &amp; \ddots &amp; \vdots         \\
+                 \phi(e_n, e_1)  &amp; \cdots &amp; \phi(e_n, e_n)
+               \end{array}\right)
+               \left(\begin{array}{c}
+                 y_1    \\
+                 \vdots \\
+                 y_n
+               \end{array}\right)
+\end{aligned}\]
+
+<h2 id="message-boxes">Message boxes</h2>
+<p class="message"><strong>NOTE</strong>: You can add a message box.</p>
+
+<h2 id="large-text">Large text</h2>
+<p class="lead">You can add large text.</p>
+
+<h2 id="large-images">Large images</h2>
+<p><img src="https://via.placeholder.com/800x100" alt="Full-width image" class="lead" width="800" height="100" /></p>
+
+<h2 id="captions-to-images">Captions to images</h2>
+<p class="figure"><img src="https://via.placeholder.com/800x100" alt="Full-width image" class="lead" width="800" height="100" />
+A caption to an image.</p>
+
+<h2 id="large-quotes">Large quotes</h2>
+<blockquote class="lead">
+  <p>You can make a quote “pop out”.</p>
+</blockquote>
+
+<h2 id="faded-text">Faded text</h2>
+<p class="faded">I’m faded, faded, faded.</p>]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="example" /><summary type="html"><![CDATA[A page showing Hydejack-specific markdown content.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/example-content-iii.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/example-content-iii.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example Content II</title><link href="http://localhost:4000/example/2017-11-23-example-content-ii/" rel="alternate" type="text/html" title="Example Content II" /><published>2017-11-23T00:00:00+09:00</published><updated>2022-02-07T13:43:00+09:00</updated><id>http://localhost:4000/example/example-content-ii</id><content type="html" xml:base="http://localhost:4000/example/2017-11-23-example-content-ii/"><![CDATA[<p>There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.</p>
+
+<p>There should be whitespace between paragraphs.</p>
+
+<p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
+
+<p><a href="another-page">Link to another page</a>.</p>
+
+<ul class="large-only" id="markdown-toc">
+  <li><a href="#header-2" id="markdown-toc-header-2">Header 2</a>    <ul>
+      <li><a href="#header-3" id="markdown-toc-header-3">Header 3</a>        <ul>
+          <li><a href="#header-4" id="markdown-toc-header-4">Header 4</a>            <ul>
+              <li><a href="#header-5" id="markdown-toc-header-5">Header 5</a>                <ul>
+                  <li><a href="#header-6" id="markdown-toc-header-6">Header 6</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><a href="#theres-a-horizontal-rule-below-this" id="markdown-toc-theres-a-horizontal-rule-below-this">There’s a horizontal rule below this.</a></li>
+      <li><a href="#here-is-an-unordered-list" id="markdown-toc-here-is-an-unordered-list">Here is an unordered list:</a></li>
+      <li><a href="#and-an-ordered-list" id="markdown-toc-and-an-ordered-list">And an ordered list:</a></li>
+      <li><a href="#and-a-nested-list" id="markdown-toc-and-a-nested-list">And a nested list:</a></li>
+      <li><a href="#small-image" id="markdown-toc-small-image">Small image</a></li>
+      <li><a href="#large-image" id="markdown-toc-large-image">Large image</a></li>
+      <li><a href="#definition-lists" id="markdown-toc-definition-lists">Definition lists</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="header-2">Header 2</h2>
+
+<p>This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
+
+<h3 id="header-3">Header 3</h3>
+
+<blockquote>
+  <p>This is a blockquote following a header.</p>
+
+  <p>When something is important enough, you do it even if the odds are not in your favor.</p>
+</blockquote>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Javascript code with syntax highlighting.</span>
+<span class="kd">var</span> <span class="nx">fun</span> <span class="o">=</span> <span class="kd">function</span> <span class="nx">lang</span><span class="p">(</span><span class="nx">l</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">dateformat</span><span class="p">.</span><span class="nx">i18n</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">./lang/</span><span class="dl">'</span> <span class="o">+</span> <span class="nx">l</span><span class="p">)</span>
+  <span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Ruby code with syntax highlighting</span>
+<span class="no">GitHubPages</span><span class="o">::</span><span class="no">Dependencies</span><span class="p">.</span><span class="nf">gems</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">gem</span><span class="p">,</span> <span class="n">version</span><span class="o">|</span>
+  <span class="n">s</span><span class="p">.</span><span class="nf">add_dependency</span><span class="p">(</span><span class="n">gem</span><span class="p">,</span> <span class="s2">"= </span><span class="si">#{</span><span class="n">version</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<h4 id="header-4">Header 4</h4>
+
+<ul>
+  <li>This is an unordered list following a header.</li>
+  <li>This is an unordered list following a header.</li>
+  <li>This is an unordered list following a header.</li>
+</ul>
+
+<h5 id="header-5">Header 5</h5>
 
 <ol>
-  <li><a href="#2022-03-20">2022-03-20</a></li>
-  <li><a href="#2022-04-02">2022-04-02</a></li>
-  <li><a href="#footnotes">Footnotes</a></li>
+  <li>This is an ordered list following a header.</li>
+  <li>This is an ordered list following a header.</li>
+  <li>This is an ordered list following a header.</li>
 </ol>
 
-<h4 id="2022-03-20">2022-03-20</h4>
+<h6 id="header-6">Header 6</h6>
 
-<p>Life 탭과 Work 탭의 업데이트를 마무리 했어요. 이제는 블로그 포스팅과 기타 기능에 집중해서 업로드 할 예정이에요.
-기존에 주로 사용하는 코드가 아니라서 업로드 속도와 코드 수정 속도가 많이 느리지만,
-그래도 차근차근 확실히 완성도 있게 진행하고 있어요.
-그래픽 작업도 직접 커스터마이징 해서 많이 속도가 느려지지만, 그래도 확실하게 하려고 노력중이에요.
-아래에 있는 의미없는 Lorem ipsum은 업데이트에 맞춰서 천천히 바꿔갈 예정이에요.</p>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">head1</th>
+      <th style="text-align: left">head two</th>
+      <th style="text-align: left">three</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ok</td>
+      <td style="text-align: left">good swedish fish</td>
+      <td style="text-align: left">nice</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">out of stock</td>
+      <td style="text-align: left">good and plenty</td>
+      <td style="text-align: left">nice</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">ok</td>
+      <td style="text-align: left">good <code class="language-plaintext highlighter-rouge">oreos</code></td>
+      <td style="text-align: left">hmm</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">ok</td>
+      <td style="text-align: left">good <code class="language-plaintext highlighter-rouge">zoute</code> drop</td>
+      <td style="text-align: left">yumm</td>
+    </tr>
+  </tbody>
+</table>
 
-<p><br />
-<br /></p>
+<h3 id="theres-a-horizontal-rule-below-this">There’s a horizontal rule below this.</h3>
 
-<h4 id="2022-04-02">2022-04-02</h4>
+<hr />
 
-<p>테마 업데이트를 위해 준비중이에요. 조만간 새로운 테마로 찾아올게요.</p>
+<h3 id="here-is-an-unordered-list">Here is an unordered list:</h3>
 
-<p><br /></p>
+<ul>
+  <li>Item foo</li>
+  <li>Item bar</li>
+  <li>Item baz</li>
+  <li>Item zip</li>
+</ul>
 
-<h5 id="footnotes">FOOTNOTES</h5>
+<h3 id="and-an-ordered-list">And an ordered list:</h3>
 
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>나중에 쓰이려고 남겨둔 조각이에요! ㅎㅎ <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>]]></content><author><name></name></author><category term="Notice" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">첫 포스팅</title><link href="http://localhost:4000/2022/03/19/First-Post.html" rel="alternate" type="text/html" title="첫 포스팅" /><published>2022-03-19T00:59:00+09:00</published><updated>2022-03-19T00:59:00+09:00</updated><id>http://localhost:4000/2022/03/19/First-Post</id><content type="html" xml:base="http://localhost:4000/2022/03/19/First-Post.html"><![CDATA[<p><img src="http://localhost:4000/assets/img/content/20220319/banner.png" alt="bannerimg" class="post-pic" />
-<br />
-<br /></p>
+<ol>
+  <li>Item one</li>
+  <li>Item two</li>
+  <li>Item three</li>
+  <li>Item four</li>
+</ol>
 
-<p>블로그를 포스팅하는 목적에 대해서 생각을 해봤다.</p>
+<h3 id="and-a-nested-list">And a nested list:</h3>
 
-<p>나는 네이버 블로그, 티스토리, 브런치 등을 사용하지 않고 왜 굳이 깃헙 블로그를 테마를 만들어 직접 커스터마이징을 하고
-블로그 포스팅을 하나하나 하려고 하는 걸까?</p>
+<ul>
+  <li>level 1 item
+    <ul>
+      <li>level 2 item</li>
+      <li>level 2 item
+        <ul>
+          <li>level 3 item</li>
+          <li>level 3 item</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>level 1 item
+    <ul>
+      <li>level 2 item</li>
+      <li>level 2 item</li>
+      <li>level 2 item</li>
+    </ul>
+  </li>
+  <li>level 1 item
+    <ul>
+      <li>level 2 item</li>
+      <li>level 2 item</li>
+    </ul>
+  </li>
+  <li>level 1 item</li>
+</ul>
 
-<p>어렸을 적부터 나는 레고를 조립하거나 무언가를 조립하는데 많은 흥미를 느꼈다.
-각각의 작은 의미를 가진 객체들이 서로 모이고, 그 객체들이 모여 작은 모듈이 되고, 작은 모듈들이 모여 하나의 작품이 되는
-그 방식 자체를 좋아했다.</p>
+<h3 id="small-image">Small image</h3>
 
-<p>프로그래밍도 마찬가지 아닐까,
-작은 코드들을 모으고, 붙여서 조립해 사람들이 살아가는데에 일말의 편리함이라도 제공을 하고,
-그 과정과 결과에 따라 성취감과 뿌듯함을 느끼는 데에 내가 개발자가 된 이유가 아닐까 싶다.</p>
+<p><img src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" alt="" /></p>
 
-<p>오랜 시간을 살아오지 못했지만, 적어도 개발자로 살아가는데 있어서 나는 내가 걸어온 길, 걸어갈 길에 대해
-기록하고 싶었던 건 아닐까,
-그리고 내가 만든 블로그 자체가 개발자로 걸어온 길을 보여주는 가장 가시적인 기록이 되지 않을까 하는 생각에
-기존 블로그 서비스를 이용하는 것이 아닌 테마를 고르고, 코드를 수정하고, 빌드와 배포까지 하는 번거로운 길을 걷도록 하는 원동력이 되지 않을까 한다.</p>
+<h3 id="large-image">Large image</h3>
 
-<p>포스팅 목적에는 큰 의미를 두고 싶지 않다.
-훗날 쌓이고 쌓인 글을 정리하기 위해 카테고리 정도는 매길 수 있지만, 지금은 하나씩 기록하며, 대한민국에 사는 수많은 개발자중 한 명일 뿐인,
-젤리곰이라는 사람이 어떠한 사람인지 기록하고 정리하고 싶다.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
+<p><img src="https://guides.github.com/activities/hello-world/branching.png" alt="" /></p>
+
+<h3 id="definition-lists">Definition lists</h3>
+
+<dl>
+  <dt>Name</dt>
+  <dd>Godzilla</dd>
+  <dt>Born</dt>
+  <dd>1952</dd>
+  <dt>Birthplace</dt>
+  <dd>Japan</dd>
+  <dt>Color</dt>
+  <dd>Green</dd>
+</dl>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. Or is it?
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
+</code></pre></div></div>]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="example" /><summary type="html"><![CDATA[A page showing how regular markdown content is styled in Hydejack.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/example-content-ii.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/example-content-ii.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example Content</title><link href="http://localhost:4000/example/2012-02-07-example-content/" rel="alternate" type="text/html" title="Example Content" /><published>2012-02-07T00:00:00+09:00</published><updated>2022-02-07T13:43:00+09:00</updated><id>http://localhost:4000/example/example-content</id><content type="html" xml:base="http://localhost:4000/example/2012-02-07-example-content/"><![CDATA[<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. <em>Aenean eu leo quam.</em> Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
+
+<blockquote>
+  <p>Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+</blockquote>
+
+<p>Etiam porta <strong>sem malesuada magna</strong> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+
+<h2 id="inline-html-elements">Inline <abbr title="HyperText Markup Language">HTML</abbr> elements</h2>
+
+<p><abbr title="HyperText Markup Language">HTML</abbr> defines a long list of available inline tags, a complete list of which can be found on the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">Mozilla Developer Network</a>.</p>
+
+<ul>
+  <li><strong>To bold text</strong>, use <code class="language-plaintext highlighter-rouge">**To bold text**</code>.</li>
+  <li><em>To italicize text</em>, use <code class="language-plaintext highlighter-rouge">*To italicize text*</code>.</li>
+  <li>Abbreviations, like <abbr title="HyperText Markup Language">HTML</abbr> should be defined like this <code class="language-plaintext highlighter-rouge">*[HTML]: HyperText Markup Language</code>.</li>
+  <li>Citations, like <cite>— Mark otto</cite>, should use <code class="language-plaintext highlighter-rouge">&lt;cite&gt;</code>.</li>
+  <li><del>Deleted</del> text should use <code class="language-plaintext highlighter-rouge">~~deleted~~</code> and <ins>inserted</ins> text should use <code class="language-plaintext highlighter-rouge">&lt;ins&gt;</code>.</li>
+  <li>Superscript <sup>text</sup> uses <code class="language-plaintext highlighter-rouge">&lt;sup&gt;</code> and subscript <sub>text</sub> uses <code class="language-plaintext highlighter-rouge">&lt;sub&gt;</code>.</li>
+</ul>
+
+<p>Most of these elements are styled by browsers with few modifications on our part.</p>
+
+<h2 id="heading-2">Heading 2</h2>
+<p>Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+
+<h3 id="heading-3">Heading 3</h3>
+<p>Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.</p>
+
+<h4 id="heading-4">Heading 4</h4>
+<p>Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.</p>
+
+<h5 id="heading-5">Heading 5</h5>
+<p>Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.</p>
+
+<h6 id="heading-6">Heading 6</h6>
+<p>Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.</p>
+
+<h2 id="code">Code</h2>
+
+<p>Cum sociis natoque penatibus et magnis dis <code class="language-plaintext highlighter-rouge">code element</code> montes, nascetur ridiculus mus.</p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Example can be run directly in your JavaScript console</span>
+
+<span class="c1">// Create a function that takes two arguments and returns the sum of those</span>
+<span class="c1">// arguments</span>
+<span class="kd">var</span> <span class="nx">adder</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Function</span><span class="p">(</span><span class="dl">"</span><span class="s2">a</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">b</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">return a + b</span><span class="dl">"</span><span class="p">);</span>
+
+<span class="c1">// Call the function</span>
+<span class="nx">adder</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">6</span><span class="p">);</span>
+<span class="c1">// &gt; 8</span>
+</code></pre></div></div>
+
+<h2 id="lists">Lists</h2>
+
+<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+
+<ul>
+  <li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+  <li>Donec id elit non mi porta gravida at eget metus.</li>
+  <li>Nulla vitae elit libero, a pharetra augue.</li>
+</ul>
+
+<p>Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.</p>
+
+<ol>
+  <li>Vestibulum id ligula porta felis euismod semper.</li>
+  <li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
+  <li>Maecenas sed diam eget risus varius blandit sit amet non magna.</li>
+</ol>
+
+<p>Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.</p>
+
+<dl>
+  <dt>HyperText Markup Language (<abbr title="HyperText Markup Language">HTML</abbr>)</dt>
+  <dd>The language used to describe and define the content of a Web page</dd>
+  <dt>Cascading Style Sheets (<abbr title="Cascading Style Sheets">CSS</abbr>)</dt>
+  <dd>Used to describe the appearance of Web content</dd>
+  <dt>JavaScript (<abbr title="JavaScript">JS</abbr>)</dt>
+  <dd>The programming language used to build advanced Web sites and applications</dd>
+</dl>
+
+<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+
+<h2 id="images">Images</h2>
+
+<p>Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.</p>
+
+<p><img src="https://via.placeholder.com/800x400" alt="800x400" title="Large example image" /></p>
+
+<p><img src="https://via.placeholder.com/400x200" alt="400x200" title="Medium example image" /></p>
+
+<p><img src="https://via.placeholder.com/200x200" alt="200x200" title="Small example image" /></p>
+
+<h2 id="tables">Tables</h2>
+
+<p>Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Name</th>
+      <th style="text-align: left">Upvotes</th>
+      <th style="text-align: left">Downvotes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Alice</td>
+      <td style="text-align: left">10</td>
+      <td style="text-align: left">11</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Bob</td>
+      <td style="text-align: left">4</td>
+      <td style="text-align: left">3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Charlie</td>
+      <td style="text-align: left">7</td>
+      <td style="text-align: left">9</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td style="text-align: left">Totals</td>
+      <td style="text-align: left">21</td>
+      <td style="text-align: left">23</td>
+    </tr>
+  </tfoot>
+</table>
+
+<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.</p>]]></content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="example" /><summary type="html"><![CDATA[Howdy! This is an example blog post that shows several types of HTML content supported in this theme.]]></summary></entry></feed>
